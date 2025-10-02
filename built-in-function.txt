@@ -1,0 +1,10 @@
+print(argument) - wyswietlanie wartosci argumentu w konsoli
+type() - zwraca typy danych zmiennych
+isinstatnce(obj, data_type) - zwraca informacje prawda/fałsz czy dany obiekt jest instacją danej klasy
+str() - zmienia liczby na napis
+int() - konwersja zmiennej na integer
+input - interakcja z użytkownikiem (zawsze potraktuje wartosc jako str)
+if - jeśli
+else - w przeciwnym razie
+elif - else if - dodatkowe warunki do sprawdzenia
+len - wyswietl dlugość listy
