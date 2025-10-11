@@ -102,8 +102,8 @@
 # my_set = {2,4.5,"Aga",False,tupla}
 # print(my_set)
 
-# dana jest tupla:
-letters = ('a', 'b', 'a', 'c', 'a', 'd', 'b')
+# # dana jest tupla:
+# letters = ('a', 'b', 'a', 'c', 'a', 'd', 'b')
 # Policz, ile razy występuje litera 'a'
 # Znajdź indeks pierwszego wystąpienia litery 'b'
 # Spróbuj znaleźć indeks litery 'z' (co się stanie?)
